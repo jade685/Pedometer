@@ -1,7 +1,8 @@
 # Pedometer
 
 Using the accelerometer inside devices and special algorithm to count steps;  
-Inside map for user to find the location using Google Map & other information including current speed and position etc;  
+Inside map for user to find the location using Google Map;  
+Information including current speed and position etc;  
 Including 4 interfaces: 
   1. Welcoming Page
   2. Courting steps’ Page
